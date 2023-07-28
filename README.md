@@ -10,4 +10,9 @@ Contributions are welcome. If you want to contribute, feel free to send a pull r
 
 Table Structure Recognition:Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling
 
+## Microsoft
+### MRA
+### 徐毅恒(哈工大，香港大学)，Minghaoli
+layoutlm pre-training of text and layout for document image understanding
+
 
