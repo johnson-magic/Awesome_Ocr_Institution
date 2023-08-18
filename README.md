@@ -16,3 +16,9 @@ Table Structure Recognition:Improving Table Structure Recognition with Visual-Al
 layoutlm pre-training of text and layout for document image understanding
 
 
+## Google
+### Google Research
+### Shangbang Long
+ICDAR 2023 Competition on Hierarchical Text Detection and Recognition
+
+
